@@ -31,11 +31,12 @@ I'm actively looking for a Junior Backend Developer role where I can apply my kn
 
 ### 📂 Projects
 
-- **Talabat Backend API** – A full e-commerce RESTful API built using ASP.NET Core, EF Core, Redis, Stripe Integration, and Clean Architecture  
+- **🛒 Talabat Backend API** – A full e-commerce RESTful API built using ASP.NET Core, EF Core, Redis, Stripe Integration, and Clean Architecture  
   [![GitHub Repo](https://img.shields.io/badge/GitHub%20Repo-Talabat-000?style=for-the-badge&logo=github)](https://github.com/FadyNader1/Talabat)  
   [![Postman Collection](https://img.shields.io/badge/Postman-Talabat%20Collection-orange?style=for-the-badge&logo=postman)](https://github.com/FadyNader1/Talabat/blob/master/Talabat1.postman_collection.json)
 
-- **Employee Management System (MVC)** – A basic HR system built using ASP.NET MVC to manage employees (CRUD, search, roles)
+- **👥 Employee Management System (MVC)** – A basic HR system built using ASP.NET MVC to manage employees with full CRUD, role filtering, and Razor views  
+  [![GitHub Repo](https://img.shields.io/badge/GitHub%20Repo-Employee%20System-000?style=for-the-badge&logo=github)](https://github.com/FadyNader1/Employee-Management-System-)
 
 ---
 
