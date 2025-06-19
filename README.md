@@ -1,4 +1,5 @@
-<h1 align="center">👋 Hi, I'm Fady Nader</h1>
+
+<h1 align="center">👋 Hey there, I'm <span style="color:#2e8b57;">Fady Nader</span></h1>
 
 <p align="center">
   <b>🎯 Junior Backend Developer | ASP.NET Core Focused</b><br>
