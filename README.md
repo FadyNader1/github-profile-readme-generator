@@ -16,24 +16,27 @@
 
 ---
 
-## 🧠 Skills & Technologies
+### 🖥️ Backend Skills
 
-### 🔹 Core Backend Stack
-- `ASP.NET Core`, `Entity Framework Core`, `C#`
-- `SQL Server`, `Redis`
-- `JWT Authentication`, `Stripe Payments`
-
-### 🔹 Architecture & Patterns
-- `Clean Architecture`, `Onion Design Pattern`
-- `Unit of Work`, `Specification Pattern`
-- `3-layer Architecture`, `SOLID Principles`
-
-### 🔹 Tools & Utilities
-- `Postman`, `Swagger`, `Docker (basic)`
-- `Git`, `GitHub`, `Visual Studio`
-- `Unit Testing`: xUnit, Moq
+| ASP.NET Core, C#, Entity Framework Core | SQL Server, Redis | Clean Architecture, Onion Design Pattern |
+|----------------------------------------|--------------------|------------------------------------------|
+| Specification Pattern, Unit of Work | Authentication & Authorization (JWT) | API Documentation (Swagger) |
+| Version Control (Git, GitHub) | Postman, Swagger | Payment Integration (Stripe) |
+| Docker Basics | Layered Architecture (3-layer, Onion) | Unit Testing (xUnit, Moq) |
 
 ---
+
+### 🛠️ Tools & Technologies
+
+- Visual Studio 2022 / 2019  
+- SQL Server Management Studio  
+- Git & GitHub  
+- Postman  
+- Docker (Basics)  
+- Swagger for API Testing  
+
+---
+
 
 ### 📂 Projects
 
