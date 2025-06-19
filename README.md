@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://github.com/FadyNader1/Talabat/assets/0000000024c46243a4e74410e3dfa383/banner.png" alt="Fady Nader Banner" />
+</p>
 <h1 align="center">👋 Hey there, I'm <span style="color:#2e8b57;">Fady Nader</span></h1>
 
 <p align="center">
