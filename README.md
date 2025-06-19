@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/FadyNader1/FadyNader1/blob/master/903271f9-d09f-4d75-b291-bd6cc2a7ef4d.png" alt="Fady Nader Banner" />
+  <img src="https://github.com/FadyNader1/FadyNader1/blob/master/903271f9-d09f-4d75-b291-bd6cc2a7ef4d.png" alt="Fady Nader Banner" height="100" />
 </p>
 <h1 align="center">👋 Hey there, I'm <span style="color:#2e8b57;">Fady Nader</span></h1>
 
