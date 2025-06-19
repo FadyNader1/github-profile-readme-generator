@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/FadyNader1/FadyNader1/blob/master/Blue%20Live%20Webinar%20Marketing%20Strategy%20Google%20Classroom%20Header%20(1).png" alt="Fady Nader Banner"   width="100%"
+  <img src="https://github.com/FadyNader1/FadyNader1/blob/master/src/images/Blue%20Live%20Webinar%20Marketing%20Strategy%20Google%20Classroom%20Header%20(1).png" alt="Fady Nader Banner"   width="100%"
        height="10%"   style="border-radius: 20px;"/>
 </p>
 <h1 align="center">👋 Hey there, I'm <span style="color:#2e8b57;">Fady Nader</span></h1>
