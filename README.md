@@ -1,32 +1,36 @@
-h1 align="center">👋 Hey there, I'm <span style="color:#2e8b57;">Fady Nader</span></h1>
+<h1 align="center">👋 Hi, I'm Fady Nader</h1>
 
 <p align="center">
-  <b>🎯 Junior Backend Developer | ASP.NET Core Specialist</b><br>
-  <i>Crafting APIs with Clean Architecture, Solid Principles & Modern Tools</i>
+  <b>🎯 Junior Backend Developer | ASP.NET Core Focused</b><br>
+  <i>Building Clean, Scalable APIs with .NET Core & Modern Tools</i>
 </p>
 
 ---
 
 ## 💼 About Me
 
-🔹 Junior backend developer passionate about building scalable and maintainable backend systems.  
-🔹 Skilled in **ASP.NET Core**, **Entity Framework**, **JWT**, and **SQL Server**.  
-🔹 I love clean code, reusable architecture, and team collaboration.
+💻 I'm a junior backend developer with a strong focus on **ASP.NET Core**.  
+🛠️ I enjoy crafting well-structured APIs using **Clean Architecture**, **EF Core**, **JWT**, and **Stripe**.  
+🚀 I'm seeking a role where I can contribute, learn, and grow in a dynamic tech environment.  
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 Skills & Technologies
 
-| **Category**        | **Tools / Skills** |
-|---------------------|--------------------|
-| 👨‍💻 Languages        | C#, SQL |
-| ⚙️ Frameworks        | ASP.NET Core, Entity Framework Core |
-| 🧱 Architecture      | Clean Architecture, Onion Pattern, SOLID, 3-layer, Specification Pattern |
-| 🔐 Security          | JWT Authentication |
-| 🧪 Testing           | xUnit, Moq |
-| 🔗 APIs              | Stripe, Swagger |
-| 🧰 Tools             | Git, GitHub, Docker (Basics), Postman |
-| 💾 Database          | SQL Server, Redis |
+### 🔹 Core Backend Stack
+- `ASP.NET Core`, `Entity Framework Core`, `C#`
+- `SQL Server`, `Redis`
+- `JWT Authentication`, `Stripe Payments`
+
+### 🔹 Architecture & Patterns
+- `Clean Architecture`, `Onion Design Pattern`
+- `Unit of Work`, `Specification Pattern`
+- `3-layer Architecture`, `SOLID Principles`
+
+### 🔹 Tools & Utilities
+- `Postman`, `Swagger`, `Docker (basic)`
+- `Git`, `GitHub`, `Visual Studio`
+- `Unit Testing`: xUnit, Moq
 
 ---
 
