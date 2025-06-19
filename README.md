@@ -1,38 +1,32 @@
-<h1 align="center">👋 Hi, I'm Fady Nader</h1>
+h1 align="center">👋 Hey there, I'm <span style="color:#2e8b57;">Fady Nader</span></h1>
 
 <p align="center">
-  <b>🎯 Junior Backend Developer | ASP.NET Core Focused</b><br>
-  <i>Building Clean, Scalable APIs with .NET Core & Modern Tools</i>
+  <b>🎯 Junior Backend Developer | ASP.NET Core Specialist</b><br>
+  <i>Crafting APIs with Clean Architecture, Solid Principles & Modern Tools</i>
 </p>
 
 ---
 
 ## 💼 About Me
 
-💻 I'm a junior backend developer with a strong focus on **ASP.NET Core**.  
-🛠️ I enjoy crafting well-structured APIs using **Clean Architecture**, **EF Core**, **JWT**, and **Stripe**.  
-🚀 I'm seeking a role where I can contribute, learn, and grow in a dynamic tech environment.  
+🔹 Junior backend developer passionate about building scalable and maintainable backend systems.  
+🔹 Skilled in **ASP.NET Core**, **Entity Framework**, **JWT**, and **SQL Server**.  
+🔹 I love clean code, reusable architecture, and team collaboration.
 
 ---
 
-### 🖥️ Backend Skills
+## 🛠️ Tech Stack
 
-| ASP.NET Core, C#, Entity Framework Core | SQL Server, Redis | Clean Architecture, Onion Design Pattern |
-|----------------------------------------|--------------------|------------------------------------------|
-| Specification Pattern, Unit of Work | Authentication & Authorization (JWT) | API Documentation (Swagger) |
-| Version Control (Git, GitHub) | Postman, Swagger | Payment Integration (Stripe) |
-| Docker Basics | Layered Architecture (3-layer, Onion) | Unit Testing (xUnit, Moq) |
-
----
-
-### 🛠️ Tools & Technologies
-
-- Visual Studio 2022 / 2019  
-- SQL Server Management Studio  
-- Git & GitHub  
-- Postman  
-- Docker (Basics)  
-- Swagger for API Testing  
+| **Category**        | **Tools / Skills** |
+|---------------------|--------------------|
+| 👨‍💻 Languages        | C#, SQL |
+| ⚙️ Frameworks        | ASP.NET Core, Entity Framework Core |
+| 🧱 Architecture      | Clean Architecture, Onion Pattern, SOLID, 3-layer, Specification Pattern |
+| 🔐 Security          | JWT Authentication |
+| 🧪 Testing           | xUnit, Moq |
+| 🔗 APIs              | Stripe, Swagger |
+| 🧰 Tools             | Git, GitHub, Docker (Basics), Postman |
+| 💾 Database          | SQL Server, Redis |
 
 ---
 
