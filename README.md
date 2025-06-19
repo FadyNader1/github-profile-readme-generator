@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://github.com/FadyNader1/FadyNader1/blob/master/Red%20And%20Gold%20Elegant%20Digital%20Marketing%20Agency%20Outdoor%20Banner.png" alt="Fady Nader Banner"   width="100%"
-       height="300"   style="border-radius: 20px;"/>
+       height="20%"   style="border-radius: 20px;"/>
 </p>
 <h1 align="center">👋 Hey there, I'm <span style="color:#2e8b57;">Fady Nader</span></h1>
 
