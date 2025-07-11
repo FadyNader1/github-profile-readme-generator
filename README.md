@@ -51,7 +51,7 @@
   [![GitHub Repo](https://github.com/FadyNader1/Hospital-Management-System)](https://github.com/FadyNader1/Hospital-Management-System)  
 
 - **👥 Employee Management System (MVC)** – A basic HR system built using ASP.NET MVC to manage employees with full CRUD, role filtering, and Razor views  
-  [![GitHub Repo](https://img.shields.io/badge/GitHub%20Repo-Employee%20System-000?style=for-the-badge&logo=github)](https://github.com/FadyNader1/Employee-Management-System-)
+  [![GitHub Repo](https://img.shields.io/badge/GitHub%20Repo-Talabat-000?style=for-the-badge&logo=github)](https://github.com/FadyNader1/Employee-Management-System-)
 
 ---
 
